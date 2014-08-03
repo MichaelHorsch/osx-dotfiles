@@ -1,0 +1,7 @@
+[user]
+	email = mhorsch@gmail.com
+	name = MichaelHorsch
+[credential]
+	helper = osxkeychain
+[color]
+	ui = auto
