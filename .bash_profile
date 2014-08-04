@@ -1,3 +1,7 @@
+echo "i have no clue what i'm doing (╯°□°）╯︵ ┻━┻ "
+
+PS1="\W : \u\$ "
+
 export PATH="$HOME/.rbenv/bin:$PATH"
 
 export RUBYOPT="rubygems"
